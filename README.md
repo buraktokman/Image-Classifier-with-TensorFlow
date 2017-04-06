@@ -7,11 +7,11 @@ Deep Learning is great with images
 No feature engineering needed
 
 Training data for TensorFlow for Poets
-#File Name      #Label
+File Name       Label
 rose1.png       Rose
 tulipgarden.jpg Tulip
 flowerfield.png Sunflower
-whiteflower     Daisy
+whiteflower.png     Daisy
 
 Classifier using Neural Networks
 TF Learn is a high level machine learning library on top of TensorFlow
