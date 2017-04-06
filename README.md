@@ -1,4 +1,4 @@
-# Image Classifier with TensorFlow for Poets
+# Image Classifier with TensorFlow
 Tutorial with TensorFlow for Image Classifier
 Based on [Writing Our First Classifier - Machine Learning Recipes #5](https://www.youtube.com/watch?v=AoeEHqVSNOw)
 
