@@ -1,33 +1,30 @@
-# Image Classifier with TensorFlow
-Tutorial with TensorFlow for Image Classifier
+# Image Classifier with TensorFlow for Poets
+Tutorial with TensorFlow for Image Classifier<br>
 Based on [Writing Our First Classifier - Machine Learning Recipes #5](https://www.youtube.com/watch?v=AoeEHqVSNOw)
 
 ## Summary
-Deep Learning is great with images.
-No feature engineering needed.
+Deep Learning is great with images<br>
+No feature engineering needed
 
-Training data for TensorFlow
+Training data for TensorFlow for Poets<br>
+#File Name      #Label<br>
+rose1.png       Rose<br>
+tulipgarden.jpg Tulip<br>
+flowerfield.png Sunflower<br>
+whiteflower     Daisy<br>
 
-File Name       Label
-rose1.png       Rose
-tulipgarden.jpg Tulip
-flowerfield.png Sunflower
-whiteflower.png     Daisy
-
-Classifier using Neural Networks
+Classifier using Neural Networks<br>
 TF Learn is a high level machine learning library on top of TensorFlow
 
-Inception
--Google's best image classifier
--Open Source
--Trained on 1.2 million images
+Inception<br>
+-Google's best image classifier<br>
+-Open Source<br>
+-Trained on 1.2 million images<br>
  Training Inception took about two weeks on a fast desktop with 8 GPUs
 
- Retraining (also known as Transfer Learning)
- -Saves a lot of time
+ Retraining (also known as Transfer Learning)<br>
+ -Saves a lot of time<br>
  -Leverages prior work
 
- Diversity & Quantity
- -By diversity, i mean more images of different types of roses we have, the better off
- we'll be.
- 
+ Diversity & Quantity<br>
+ -By diversity, i mean more images of different types of roses we have, the better off we'll be.
